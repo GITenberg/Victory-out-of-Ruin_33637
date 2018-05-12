@@ -1,0 +1,32 @@
+_repo: Victory-out-of-Ruin_33637
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Maclean, Norman
+    birthdate: 1869
+    deathdate: 1952
+    gutenberg_agent_id: '36510'
+    url: http://www.gutenberg.org/2009/agents/36510
+description: ''
+gutenberg_issued: '2010-09-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33637'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- Social conditions -- 20th century'
+- !lcc 'DA'
+- !lcsh 'Christianity -- Great Britain'
+tableOfContents: The only hope -- The supreme need -- In the sacred name of liberty!
+  -- The greatest of tyrannies -- The last deliverance -- The peril of the crowd --
+  Let us have peace -- The way of peace -- No room -- Dominion from sea to sea --
+  There were in the same country shepherds -- The fulness of the time -- Victory out
+  of ruin.
+title: Victory out of Ruin
+url: http://www.gutenberg.org/ebooks/33637
